@@ -1,0 +1,6 @@
+.git
+.idea
+.vscode
+.gitignore
+.env.example
+*.md
